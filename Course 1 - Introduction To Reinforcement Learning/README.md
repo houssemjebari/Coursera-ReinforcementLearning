@@ -3,7 +3,7 @@
 In this course, we explore foundational reinforcement learning concepts through hands-on projects. The projects in this repository illustrate how to model complex environments and decision-making processes, covering both full state-based problems and simpler bandit scenarios.
 
 <p align="center">
-  <img src="images/parking_distribution.png" alt="ParkingWorld Transition Distribution" width="500"/>
+  <img src="images/grid_world.jpg" alt="ParkingWorld Transition Distribution" width="500"/>
 </p>
 
 ---
