@@ -79,7 +79,7 @@ The projects feature interactive simulations and visualizations designed to clar
 ### ParkingWorld Project Results
 
 <p align="center">
-  <img src="images/parking_distribution.png" alt="Transition Probability Distribution" width="1000"/>
+  <img src="images/parking_distribution.png" alt="Transition Probability Distribution" width="700"/>
 </p>
 
 This plot shows how various pricing actions influence the probability of transitioning between different occupancy states. The exponential decay function creates a symmetric distribution around the computed center, with special handling at the boundaries (full capacity).
