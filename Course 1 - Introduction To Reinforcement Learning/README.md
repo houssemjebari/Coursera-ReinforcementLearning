@@ -82,14 +82,12 @@ The projects feature interactive simulations and visualizations designed to clar
   <img src="images/parking_distribution.png" alt="Transition Probability Distribution" width="1000"/>
 </p>
 
-*Transition Probability Distribution*  
 This plot shows how various pricing actions influence the probability of transitioning between different occupancy states. The exponential decay function creates a symmetric distribution around the computed center, with special handling at the boundaries (full capacity).
 
 <p align="center">
   <img src="images/value_function_policy.png" alt="Value Function and Policy Visualization" width="1000"/>
 </p>
 
-*Value Function and Policy Visualization*  
 This figure illustrates the learned value for each state along with the corresponding optimal pricing strategy. The visualization highlights how subtle changes in control actions can significantly influence long-term rewards.
 
 ### Bandit Problem Results
